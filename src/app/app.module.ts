@@ -6,13 +6,17 @@ import { AppComponent } from './app.component';
 import { ProductListComponent } from './product-list/product-list.component';
 import { TopBarComponent } from './top-bar/top-bar.component';
 import { AppRoutingModule } from './app-routing.module';
+import { ProductAlertsComponent } from './product-alerts/product-alerts.component';
+import { ProductDetailsComponent } from './product-details/product-details.component';
 
 @NgModule({
   
   declarations: [
     AppComponent,
     ProductListComponent,
-    TopBarComponent
+    TopBarComponent,
+    ProductAlertsComponent,
+    ProductDetailsComponent
   ],
   imports: [
     BrowserModule,
@@ -21,6 +25,7 @@ import { AppRoutingModule } from './app-routing.module';
     RouterModule.forRoot([
       { path: '', component: ProductListComponent },
       { path: 'topbar', component: TopBarComponent },
+      { path: 'products/:productId', component: ProductDetailsComponent },
     ]),
   ],
   providers: [],
