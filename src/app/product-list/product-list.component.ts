@@ -10,7 +10,7 @@ export class ProductListComponent {
   products = [...products]
 
   share(){
-    alert("share button!")
+    console.log("share button!");
   }
   onNotify() {
     window.alert('You will be notified when the product goes on sale');
