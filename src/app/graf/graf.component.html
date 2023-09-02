@@ -1,0 +1,7 @@
+<div class="container">
+  <h2>地域別 年齢グラフ</h2>
+  <select [(ngModel)]="selectedCategory" (change)="onCategoryChange()">
+    <option value="" disabled selected hidden>選択してください</option>
+    <option *ngFor="let category of populationCategories" [ngValue]="category">{{ category.label }}</option>
+  </select>
+</div>

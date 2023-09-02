@@ -1,0 +1,2162 @@
+[
+    {
+        "id": "1",
+        "area_id": "1",
+        "year": "2013",
+        "total_population": "38304",
+        "young_population": "5136",
+        "working_age_population": "26568",
+        "elderly_population": "6600"
+    },
+    {
+        "id": "2",
+        "area_id": "1",
+        "year": "2014",
+        "total_population": "38565",
+        "young_population": "5234",
+        "working_age_population": "26478",
+        "elderly_population": "6853"
+    },
+    {
+        "id": "3",
+        "area_id": "1",
+        "year": "2015",
+        "total_population": "39267",
+        "young_population": "5381",
+        "working_age_population": "26816",
+        "elderly_population": "7070"
+    },
+    {
+        "id": "4",
+        "area_id": "1",
+        "year": "2016",
+        "total_population": "39807",
+        "young_population": "5416",
+        "working_age_population": "27095",
+        "elderly_population": "7296"
+    },
+    {
+        "id": "5",
+        "area_id": "1",
+        "year": "2017",
+        "total_population": "40237",
+        "young_population": "5472",
+        "working_age_population": "27307",
+        "elderly_population": "7458"
+    },
+    {
+        "id": "6",
+        "area_id": "1",
+        "year": "2018",
+        "total_population": "41056",
+        "young_population": "5589",
+        "working_age_population": "27897",
+        "elderly_population": "7570"
+    },
+    {
+        "id": "7",
+        "area_id": "1",
+        "year": "2019",
+        "total_population": "41717",
+        "young_population": "5645",
+        "working_age_population": "28413",
+        "elderly_population": "7659"
+    },
+    {
+        "id": "8",
+        "area_id": "1",
+        "year": "2020",
+        "total_population": "42631",
+        "young_population": "5806",
+        "working_age_population": "29111",
+        "elderly_population": "7714"
+    },
+    {
+        "id": "9",
+        "area_id": "1",
+        "year": "2021",
+        "total_population": "42833",
+        "young_population": "5711",
+        "working_age_population": "29361",
+        "elderly_population": "7761"
+    },
+    {
+        "id": "10",
+        "area_id": "1",
+        "year": "2022",
+        "total_population": "42581",
+        "young_population": "5641",
+        "working_age_population": "29145",
+        "elderly_population": "7795"
+    },
+    {
+        "id": "11",
+        "area_id": "2",
+        "year": "2013",
+        "total_population": "29164",
+        "young_population": "4542",
+        "working_age_population": "19758",
+        "elderly_population": "4864"
+    },
+    {
+        "id": "12",
+        "area_id": "2",
+        "year": "2014",
+        "total_population": "29268",
+        "young_population": "4554",
+        "working_age_population": "19647",
+        "elderly_population": "5067"
+    },
+    {
+        "id": "13",
+        "area_id": "2",
+        "year": "2015",
+        "total_population": "29595",
+        "young_population": "4598",
+        "working_age_population": "19730",
+        "elderly_population": "5267"
+    },
+    {
+        "id": "14",
+        "area_id": "2",
+        "year": "2016",
+        "total_population": "29907",
+        "young_population": "4553",
+        "working_age_population": "19874",
+        "elderly_population": "5480"
+    },
+    {
+        "id": "15",
+        "area_id": "2",
+        "year": "2017",
+        "total_population": "30015",
+        "young_population": "4482",
+        "working_age_population": "19897",
+        "elderly_population": "5636"
+    },
+    {
+        "id": "16",
+        "area_id": "2",
+        "year": "2018",
+        "total_population": "30142",
+        "young_population": "4359",
+        "working_age_population": "20080",
+        "elderly_population": "5703"
+    },
+    {
+        "id": "17",
+        "area_id": "2",
+        "year": "2019",
+        "total_population": "30142",
+        "young_population": "4206",
+        "working_age_population": "20211",
+        "elderly_population": "5725"
+    },
+    {
+        "id": "18",
+        "area_id": "2",
+        "year": "2020",
+        "total_population": "30140",
+        "young_population": "4050",
+        "working_age_population": "20287",
+        "elderly_population": "5803"
+    },
+    {
+        "id": "19",
+        "area_id": "2",
+        "year": "2021",
+        "total_population": "29804",
+        "young_population": "3815",
+        "working_age_population": "20191",
+        "elderly_population": "5798"
+    },
+    {
+        "id": "20",
+        "area_id": "2",
+        "year": "2022",
+        "total_population": "29785",
+        "young_population": "3737",
+        "working_age_population": "20237",
+        "elderly_population": "5811"
+    },
+    {
+        "id": "21",
+        "area_id": "3",
+        "year": "2013",
+        "total_population": "15158",
+        "young_population": "1488",
+        "working_age_population": "11048",
+        "elderly_population": "2622"
+    },
+    {
+        "id": "22",
+        "area_id": "3",
+        "year": "2014",
+        "total_population": "15050",
+        "young_population": "1424",
+        "working_age_population": "10935",
+        "elderly_population": "2691"
+    },
+    {
+        "id": "23",
+        "area_id": "3",
+        "year": "2015",
+        "total_population": "15515",
+        "young_population": "1444",
+        "working_age_population": "11248",
+        "elderly_population": "2823"
+    },
+    {
+        "id": "24",
+        "area_id": "3",
+        "year": "2016",
+        "total_population": "15857",
+        "young_population": "1416",
+        "working_age_population": "11568",
+        "elderly_population": "2873"
+    },
+    {
+        "id": "25",
+        "area_id": "3",
+        "year": "2017",
+        "total_population": "15997",
+        "young_population": "1437",
+        "working_age_population": "11693",
+        "elderly_population": "2867"
+    },
+    {
+        "id": "26",
+        "area_id": "3",
+        "year": "2018",
+        "total_population": "16198",
+        "young_population": "1417",
+        "working_age_population": "11845",
+        "elderly_population": "2936"
+    },
+    {
+        "id": "27",
+        "area_id": "3",
+        "year": "2019",
+        "total_population": "16290",
+        "young_population": "1401",
+        "working_age_population": "11935",
+        "elderly_population": "2954"
+    },
+    {
+        "id": "28",
+        "area_id": "3",
+        "year": "2020",
+        "total_population": "16371",
+        "young_population": "1363",
+        "working_age_population": "12025",
+        "elderly_population": "2983"
+    },
+    {
+        "id": "29",
+        "area_id": "3",
+        "year": "2021",
+        "total_population": "16452",
+        "young_population": "1362",
+        "working_age_population": "12098",
+        "elderly_population": "2992"
+    },
+    {
+        "id": "30",
+        "area_id": "3",
+        "year": "2022",
+        "total_population": "16540",
+        "young_population": "1317",
+        "working_age_population": "12232",
+        "elderly_population": "2991"
+    },
+    {
+        "id": "31",
+        "area_id": "4",
+        "year": "2013",
+        "total_population": "30711",
+        "young_population": "3837",
+        "working_age_population": "20932",
+        "elderly_population": "5942"
+    },
+    {
+        "id": "32",
+        "area_id": "4",
+        "year": "2014",
+        "total_population": "30852",
+        "young_population": "3894",
+        "working_age_population": "20849",
+        "elderly_population": "6109"
+    },
+    {
+        "id": "33",
+        "area_id": "4",
+        "year": "2015",
+        "total_population": "31062",
+        "young_population": "3884",
+        "working_age_population": "20865",
+        "elderly_population": "6313"
+    },
+    {
+        "id": "34",
+        "area_id": "4",
+        "year": "2016",
+        "total_population": "31058",
+        "young_population": "3815",
+        "working_age_population": "20845",
+        "elderly_population": "6398"
+    },
+    {
+        "id": "35",
+        "area_id": "4",
+        "year": "2017",
+        "total_population": "31580",
+        "young_population": "3843",
+        "working_age_population": "21212",
+        "elderly_population": "6525"
+    },
+    {
+        "id": "36",
+        "area_id": "4",
+        "year": "2018",
+        "total_population": "31862",
+        "young_population": "3844",
+        "working_age_population": "21499",
+        "elderly_population": "6519"
+    },
+    {
+        "id": "37",
+        "area_id": "4",
+        "year": "2019",
+        "total_population": "32089",
+        "young_population": "3886",
+        "working_age_population": "21617",
+        "elderly_population": "6586"
+    },
+    {
+        "id": "38",
+        "area_id": "4",
+        "year": "2020",
+        "total_population": "32251",
+        "young_population": "3910",
+        "working_age_population": "21743",
+        "elderly_population": "6598"
+    },
+    {
+        "id": "39",
+        "area_id": "4",
+        "year": "2021",
+        "total_population": "32102",
+        "young_population": "3872",
+        "working_age_population": "21644",
+        "elderly_population": "6586"
+    },
+    {
+        "id": "40",
+        "area_id": "4",
+        "year": "2022",
+        "total_population": "32144",
+        "young_population": "3860",
+        "working_age_population": "21722",
+        "elderly_population": "6562"
+    },
+    {
+        "id": "41",
+        "area_id": "5",
+        "year": "2013",
+        "total_population": "39676",
+        "young_population": "5720",
+        "working_age_population": "28728",
+        "elderly_population": "5228"
+    },
+    {
+        "id": "42",
+        "area_id": "5",
+        "year": "2014",
+        "total_population": "40436",
+        "young_population": "5781",
+        "working_age_population": "29065",
+        "elderly_population": "5590"
+    },
+    {
+        "id": "43",
+        "area_id": "5",
+        "year": "2015",
+        "total_population": "40954",
+        "young_population": "5778",
+        "working_age_population": "29343",
+        "elderly_population": "5833"
+    },
+    {
+        "id": "44",
+        "area_id": "5",
+        "year": "2016",
+        "total_population": "41012",
+        "young_population": "5652",
+        "working_age_population": "29310",
+        "elderly_population": "6050"
+    },
+    {
+        "id": "45",
+        "area_id": "5",
+        "year": "2017",
+        "total_population": "41586",
+        "young_population": "5678",
+        "working_age_population": "29694",
+        "elderly_population": "6214"
+    },
+    {
+        "id": "46",
+        "area_id": "5",
+        "year": "2018",
+        "total_population": "41874",
+        "young_population": "5489",
+        "working_age_population": "29965",
+        "elderly_population": "6420"
+    },
+    {
+        "id": "47",
+        "area_id": "5",
+        "year": "2019",
+        "total_population": "42350",
+        "young_population": "5430",
+        "working_age_population": "30379",
+        "elderly_population": "6541"
+    },
+    {
+        "id": "48",
+        "area_id": "5",
+        "year": "2020",
+        "total_population": "43127",
+        "young_population": "5507",
+        "working_age_population": "30964",
+        "elderly_population": "6656"
+    },
+    {
+        "id": "49",
+        "area_id": "5",
+        "year": "2021",
+        "total_population": "43233",
+        "young_population": "5372",
+        "working_age_population": "31160",
+        "elderly_population": "6701"
+    },
+    {
+        "id": "50",
+        "area_id": "5",
+        "year": "2022",
+        "total_population": "43505",
+        "young_population": "5222",
+        "working_age_population": "31476",
+        "elderly_population": "6807"
+    },
+    {
+        "id": "51",
+        "area_id": "6",
+        "year": "2013",
+        "total_population": "19110",
+        "young_population": "2394",
+        "working_age_population": "13492",
+        "elderly_population": "3224"
+    },
+    {
+        "id": "52",
+        "area_id": "6",
+        "year": "2014",
+        "total_population": "18901",
+        "young_population": "2291",
+        "working_age_population": "13266",
+        "elderly_population": "3344"
+    },
+    {
+        "id": "53",
+        "area_id": "6",
+        "year": "2015",
+        "total_population": "19047",
+        "young_population": "2241",
+        "working_age_population": "13275",
+        "elderly_population": "3531"
+    },
+    {
+        "id": "54",
+        "area_id": "6",
+        "year": "2016",
+        "total_population": "19249",
+        "young_population": "2202",
+        "working_age_population": "13383",
+        "elderly_population": "3664"
+    },
+    {
+        "id": "55",
+        "area_id": "6",
+        "year": "2017",
+        "total_population": "19472",
+        "young_population": "2200",
+        "working_age_population": "13515",
+        "elderly_population": "3757"
+    },
+    {
+        "id": "56",
+        "area_id": "6",
+        "year": "2018",
+        "total_population": "19759",
+        "young_population": "2208",
+        "working_age_population": "13719",
+        "elderly_population": "3832"
+    },
+    {
+        "id": "57",
+        "area_id": "6",
+        "year": "2019",
+        "total_population": "20054",
+        "young_population": "2199",
+        "working_age_population": "13929",
+        "elderly_population": "3926"
+    },
+    {
+        "id": "58",
+        "area_id": "6",
+        "year": "2020",
+        "total_population": "20182",
+        "young_population": "2163",
+        "working_age_population": "13991",
+        "elderly_population": "4028"
+    },
+    {
+        "id": "59",
+        "area_id": "6",
+        "year": "2021",
+        "total_population": "20241",
+        "young_population": "2133",
+        "working_age_population": "14040",
+        "elderly_population": "4068"
+    },
+    {
+        "id": "60",
+        "area_id": "6",
+        "year": "2022",
+        "total_population": "20203",
+        "young_population": "2058",
+        "working_age_population": "14026",
+        "elderly_population": "4119"
+    },
+    {
+        "id": "61",
+        "area_id": "7",
+        "year": "2013",
+        "total_population": "40778",
+        "young_population": "6860",
+        "working_age_population": "27261",
+        "elderly_population": "6657"
+    },
+    {
+        "id": "62",
+        "area_id": "7",
+        "year": "2014",
+        "total_population": "43894",
+        "young_population": "7399",
+        "working_age_population": "29270",
+        "elderly_population": "7225"
+    },
+    {
+        "id": "63",
+        "area_id": "7",
+        "year": "2015",
+        "total_population": "44570",
+        "young_population": "7499",
+        "working_age_population": "29396",
+        "elderly_population": "7675"
+    },
+    {
+        "id": "64",
+        "area_id": "7",
+        "year": "2016",
+        "total_population": "44955",
+        "young_population": "7487",
+        "working_age_population": "29514",
+        "elderly_population": "7954"
+    },
+    {
+        "id": "65",
+        "area_id": "7",
+        "year": "2017",
+        "total_population": "45599",
+        "young_population": "7602",
+        "working_age_population": "29763",
+        "elderly_population": "8234"
+    },
+    {
+        "id": "66",
+        "area_id": "7",
+        "year": "2018",
+        "total_population": "46290",
+        "young_population": "7655",
+        "working_age_population": "30059",
+        "elderly_population": "8576"
+    },
+    {
+        "id": "67",
+        "area_id": "7",
+        "year": "2019",
+        "total_population": "46625",
+        "young_population": "7621",
+        "working_age_population": "30106",
+        "elderly_population": "8898"
+    },
+    {
+        "id": "68",
+        "area_id": "7",
+        "year": "2020",
+        "total_population": "46841",
+        "young_population": "7569",
+        "working_age_population": "30165",
+        "elderly_population": "9107"
+    },
+    {
+        "id": "69",
+        "area_id": "7",
+        "year": "2021",
+        "total_population": "47867",
+        "young_population": "7683",
+        "working_age_population": "30786",
+        "elderly_population": "9398"
+    },
+    {
+        "id": "70",
+        "area_id": "7",
+        "year": "2022",
+        "total_population": "48684",
+        "young_population": "7678",
+        "working_age_population": "31447",
+        "elderly_population": "9559"
+    },
+    {
+        "id": "71",
+        "area_id": "8",
+        "year": "2013",
+        "total_population": "44402",
+        "young_population": "6552",
+        "working_age_population": "28254",
+        "elderly_population": "9596"
+    },
+    {
+        "id": "72",
+        "area_id": "8",
+        "year": "2014",
+        "total_population": "44618",
+        "young_population": "6585",
+        "working_age_population": "28026",
+        "elderly_population": "10007"
+    },
+    {
+        "id": "73",
+        "area_id": "8",
+        "year": "2015",
+        "total_population": "44931",
+        "young_population": "6619",
+        "working_age_population": "27975",
+        "elderly_population": "10337"
+    },
+    {
+        "id": "74",
+        "area_id": "8",
+        "year": "2016",
+        "total_population": "45278",
+        "young_population": "6691",
+        "working_age_population": "27952",
+        "elderly_population": "10635"
+    },
+    {
+        "id": "75",
+        "area_id": "8",
+        "year": "2017",
+        "total_population": "45934",
+        "young_population": "6716",
+        "working_age_population": "28350",
+        "elderly_population": "10868"
+    },
+    {
+        "id": "76",
+        "area_id": "8",
+        "year": "2018",
+        "total_population": "46132",
+        "young_population": "6723",
+        "working_age_population": "28361",
+        "elderly_population": "11048"
+    },
+    {
+        "id": "77",
+        "area_id": "8",
+        "year": "2019",
+        "total_population": "46377",
+        "young_population": "6737",
+        "working_age_population": "28395",
+        "elderly_population": "11245"
+    },
+    {
+        "id": "78",
+        "area_id": "8",
+        "year": "2020",
+        "total_population": "46521",
+        "young_population": "6642",
+        "working_age_population": "28475",
+        "elderly_population": "11404"
+    },
+    {
+        "id": "79",
+        "area_id": "8",
+        "year": "2021",
+        "total_population": "46735",
+        "young_population": "6570",
+        "working_age_population": "28669",
+        "elderly_population": "11496"
+    },
+    {
+        "id": "80",
+        "area_id": "8",
+        "year": "2022",
+        "total_population": "47311",
+        "young_population": "6642",
+        "working_age_population": "29098",
+        "elderly_population": "11571"
+    },
+    {
+        "id": "81",
+        "area_id": "9",
+        "year": "2013",
+        "total_population": "43532",
+        "young_population": "6114",
+        "working_age_population": "30190",
+        "elderly_population": "7228"
+    },
+    {
+        "id": "82",
+        "area_id": "9",
+        "year": "2014",
+        "total_population": "43644",
+        "young_population": "6078",
+        "working_age_population": "30082",
+        "elderly_population": "7484"
+    },
+    {
+        "id": "83",
+        "area_id": "9",
+        "year": "2015",
+        "total_population": "44110",
+        "young_population": "6118",
+        "working_age_population": "30222",
+        "elderly_population": "7770"
+    },
+    {
+        "id": "84",
+        "area_id": "9",
+        "year": "2016",
+        "total_population": "44723",
+        "young_population": "6143",
+        "working_age_population": "30566",
+        "elderly_population": "8014"
+    },
+    {
+        "id": "85",
+        "area_id": "9",
+        "year": "2017",
+        "total_population": "44949",
+        "young_population": "6061",
+        "working_age_population": "30728",
+        "elderly_population": "8160"
+    },
+    {
+        "id": "86",
+        "area_id": "9",
+        "year": "2018",
+        "total_population": "45459",
+        "young_population": "6040",
+        "working_age_population": "31169",
+        "elderly_population": "8250"
+    },
+    {
+        "id": "87",
+        "area_id": "9",
+        "year": "2019",
+        "total_population": "45898",
+        "young_population": "6026",
+        "working_age_population": "31542",
+        "elderly_population": "8330"
+    },
+    {
+        "id": "88",
+        "area_id": "9",
+        "year": "2020",
+        "total_population": "46623",
+        "young_population": "6001",
+        "working_age_population": "32165",
+        "elderly_population": "8457"
+    },
+    {
+        "id": "89",
+        "area_id": "9",
+        "year": "2021",
+        "total_population": "46529",
+        "young_population": "5931",
+        "working_age_population": "32024",
+        "elderly_population": "8574"
+    },
+    {
+        "id": "90",
+        "area_id": "9",
+        "year": "2022",
+        "total_population": "46331",
+        "young_population": "5721",
+        "working_age_population": "32015",
+        "elderly_population": "8595"
+    },
+    {
+        "id": "91",
+        "area_id": "10",
+        "year": "2013",
+        "total_population": "28506",
+        "young_population": "3747",
+        "working_age_population": "18641",
+        "elderly_population": "6118"
+    },
+    {
+        "id": "92",
+        "area_id": "10",
+        "year": "2014",
+        "total_population": "28850",
+        "young_population": "3772",
+        "working_age_population": "18677",
+        "elderly_population": "6401"
+    },
+    {
+        "id": "93",
+        "area_id": "10",
+        "year": "2015",
+        "total_population": "28798",
+        "young_population": "3772",
+        "working_age_population": "18341",
+        "elderly_population": "6685"
+    },
+    {
+        "id": "94",
+        "area_id": "10",
+        "year": "2016",
+        "total_population": "28858",
+        "young_population": "3724",
+        "working_age_population": "18231",
+        "elderly_population": "6903"
+    },
+    {
+        "id": "95",
+        "area_id": "10",
+        "year": "2017",
+        "total_population": "28917",
+        "young_population": "3696",
+        "working_age_population": "18158",
+        "elderly_population": "7063"
+    },
+    {
+        "id": "96",
+        "area_id": "10",
+        "year": "2018",
+        "total_population": "28957",
+        "young_population": "3662",
+        "working_age_population": "18041",
+        "elderly_population": "7254"
+    },
+    {
+        "id": "97",
+        "area_id": "10",
+        "year": "2019",
+        "total_population": "29074",
+        "young_population": "3646",
+        "working_age_population": "18042",
+        "elderly_population": "7386"
+    },
+    {
+        "id": "98",
+        "area_id": "10",
+        "year": "2020",
+        "total_population": "29132",
+        "young_population": "3615",
+        "working_age_population": "17971",
+        "elderly_population": "7546"
+    },
+    {
+        "id": "99",
+        "area_id": "10",
+        "year": "2021",
+        "total_population": "28997",
+        "young_population": "3546",
+        "working_age_population": "17897",
+        "elderly_population": "7554"
+    },
+    {
+        "id": "100",
+        "area_id": "10",
+        "year": "2022",
+        "total_population": "29128",
+        "young_population": "3532",
+        "working_age_population": "17967",
+        "elderly_population": "7629"
+    },
+    {
+        "id": "101",
+        "area_id": "11",
+        "year": "2013",
+        "total_population": "18282",
+        "young_population": "2746",
+        "working_age_population": "12689",
+        "elderly_population": "2847"
+    },
+    {
+        "id": "102",
+        "area_id": "11",
+        "year": "2014",
+        "total_population": "18278",
+        "young_population": "2677",
+        "working_age_population": "12607",
+        "elderly_population": "2994"
+    },
+    {
+        "id": "103",
+        "area_id": "11",
+        "year": "2015",
+        "total_population": "18393",
+        "young_population": "2667",
+        "working_age_population": "12590",
+        "elderly_population": "3136"
+    },
+    {
+        "id": "104",
+        "area_id": "11",
+        "year": "2016",
+        "total_population": "18381",
+        "young_population": "2557",
+        "working_age_population": "12540",
+        "elderly_population": "3284"
+    },
+    {
+        "id": "105",
+        "area_id": "11",
+        "year": "2017",
+        "total_population": "18396",
+        "young_population": "2544",
+        "working_age_population": "12462",
+        "elderly_population": "3390"
+    },
+    {
+        "id": "106",
+        "area_id": "11",
+        "year": "2018",
+        "total_population": "18414",
+        "young_population": "2484",
+        "working_age_population": "12439",
+        "elderly_population": "3491"
+    },
+    {
+        "id": "107",
+        "area_id": "11",
+        "year": "2019",
+        "total_population": "18427",
+        "young_population": "2383",
+        "working_age_population": "12472",
+        "elderly_population": "3572"
+    },
+    {
+        "id": "108",
+        "area_id": "11",
+        "year": "2020",
+        "total_population": "18384",
+        "young_population": "2327",
+        "working_age_population": "12414",
+        "elderly_population": "3643"
+    },
+    {
+        "id": "109",
+        "area_id": "11",
+        "year": "2021",
+        "total_population": "18298",
+        "young_population": "2232",
+        "working_age_population": "12358",
+        "elderly_population": "3708"
+    },
+    {
+        "id": "110",
+        "area_id": "11",
+        "year": "2022",
+        "total_population": "18104",
+        "young_population": "2173",
+        "working_age_population": "12186",
+        "elderly_population": "3745"
+    },
+    {
+        "id": "111",
+        "area_id": "12",
+        "year": "2013",
+        "total_population": "35591",
+        "young_population": "4571",
+        "working_age_population": "22262",
+        "elderly_population": "8758"
+    },
+    {
+        "id": "112",
+        "area_id": "12",
+        "year": "2014",
+        "total_population": "35534",
+        "young_population": "4535",
+        "working_age_population": "21862",
+        "elderly_population": "9137"
+    },
+    {
+        "id": "113",
+        "area_id": "12",
+        "year": "2015",
+        "total_population": "35493",
+        "young_population": "4459",
+        "working_age_population": "21482",
+        "elderly_population": "9552"
+    },
+    {
+        "id": "114",
+        "area_id": "12",
+        "year": "2016",
+        "total_population": "35303",
+        "young_population": "4338",
+        "working_age_population": "21155",
+        "elderly_population": "9810"
+    },
+    {
+        "id": "115",
+        "area_id": "12",
+        "year": "2017",
+        "total_population": "35356",
+        "young_population": "4265",
+        "working_age_population": "21074",
+        "elderly_population": "10017"
+    },
+    {
+        "id": "116",
+        "area_id": "12",
+        "year": "2018",
+        "total_population": "35404",
+        "young_population": "4156",
+        "working_age_population": "21029",
+        "elderly_population": "10219"
+    },
+    {
+        "id": "117",
+        "area_id": "12",
+        "year": "2019",
+        "total_population": "35278",
+        "young_population": "4100",
+        "working_age_population": "20844",
+        "elderly_population": "10334"
+    },
+    {
+        "id": "118",
+        "area_id": "12",
+        "year": "2020",
+        "total_population": "35151",
+        "young_population": "4031",
+        "working_age_population": "20762",
+        "elderly_population": "10358"
+    },
+    {
+        "id": "119",
+        "area_id": "12",
+        "year": "2021",
+        "total_population": "35011",
+        "young_population": "3921",
+        "working_age_population": "20715",
+        "elderly_population": "10375"
+    },
+    {
+        "id": "120",
+        "area_id": "12",
+        "year": "2022",
+        "total_population": "34796",
+        "young_population": "3758",
+        "working_age_population": "20692",
+        "elderly_population": "10346"
+    },
+    {
+        "id": "121",
+        "area_id": "13",
+        "year": "2013",
+        "total_population": "44043",
+        "young_population": "5861",
+        "working_age_population": "27926",
+        "elderly_population": "10256"
+    },
+    {
+        "id": "122",
+        "area_id": "13",
+        "year": "2014",
+        "total_population": "43534",
+        "young_population": "5645",
+        "working_age_population": "27343",
+        "elderly_population": "10546"
+    },
+    {
+        "id": "123",
+        "area_id": "13",
+        "year": "2015",
+        "total_population": "43336",
+        "young_population": "5423",
+        "working_age_population": "27039",
+        "elderly_population": "10874"
+    },
+    {
+        "id": "124",
+        "area_id": "13",
+        "year": "2016",
+        "total_population": "43147",
+        "young_population": "5263",
+        "working_age_population": "26817",
+        "elderly_population": "11067"
+    },
+    {
+        "id": "125",
+        "area_id": "13",
+        "year": "2017",
+        "total_population": "43602",
+        "young_population": "5254",
+        "working_age_population": "27081",
+        "elderly_population": "11267"
+    },
+    {
+        "id": "126",
+        "area_id": "13",
+        "year": "2018",
+        "total_population": "43976",
+        "young_population": "5195",
+        "working_age_population": "27318",
+        "elderly_population": "11463"
+    },
+    {
+        "id": "127",
+        "area_id": "13",
+        "year": "2019",
+        "total_population": "44344",
+        "young_population": "5211",
+        "working_age_population": "27583",
+        "elderly_population": "11550"
+    },
+    {
+        "id": "128",
+        "area_id": "13",
+        "year": "2020",
+        "total_population": "44537",
+        "young_population": "5202",
+        "working_age_population": "27711",
+        "elderly_population": "11624"
+    },
+    {
+        "id": "129",
+        "area_id": "13",
+        "year": "2021",
+        "total_population": "44756",
+        "young_population": "5161",
+        "working_age_population": "27915",
+        "elderly_population": "11680"
+    },
+    {
+        "id": "130",
+        "area_id": "13",
+        "year": "2022",
+        "total_population": "44079",
+        "young_population": "5035",
+        "working_age_population": "27505",
+        "elderly_population": "11539"
+    },
+    {
+        "id": "131",
+        "area_id": "14",
+        "year": "2013",
+        "total_population": "25962",
+        "young_population": "4052",
+        "working_age_population": "16765",
+        "elderly_population": "5145"
+    },
+    {
+        "id": "132",
+        "area_id": "14",
+        "year": "2014",
+        "total_population": "26060",
+        "young_population": "4040",
+        "working_age_population": "16672",
+        "elderly_population": "5348"
+    },
+    {
+        "id": "133",
+        "area_id": "14",
+        "year": "2015",
+        "total_population": "26200",
+        "young_population": "3981",
+        "working_age_population": "16643",
+        "elderly_population": "5576"
+    },
+    {
+        "id": "134",
+        "area_id": "14",
+        "year": "2016",
+        "total_population": "26607",
+        "young_population": "3992",
+        "working_age_population": "16840",
+        "elderly_population": "5775"
+    },
+    {
+        "id": "135",
+        "area_id": "14",
+        "year": "2017",
+        "total_population": "26957",
+        "young_population": "3999",
+        "working_age_population": "17064",
+        "elderly_population": "5894"
+    },
+    {
+        "id": "136",
+        "area_id": "14",
+        "year": "2018",
+        "total_population": "27141",
+        "young_population": "3916",
+        "working_age_population": "17221",
+        "elderly_population": "6004"
+    },
+    {
+        "id": "137",
+        "area_id": "14",
+        "year": "2019",
+        "total_population": "27169",
+        "young_population": "3894",
+        "working_age_population": "17243",
+        "elderly_population": "6032"
+    },
+    {
+        "id": "138",
+        "area_id": "14",
+        "year": "2020",
+        "total_population": "27413",
+        "young_population": "3898",
+        "working_age_population": "17401",
+        "elderly_population": "6114"
+    },
+    {
+        "id": "139",
+        "area_id": "14",
+        "year": "2021",
+        "total_population": "27702",
+        "young_population": "3895",
+        "working_age_population": "17663",
+        "elderly_population": "6144"
+    },
+    {
+        "id": "140",
+        "area_id": "14",
+        "year": "2022",
+        "total_population": "27771",
+        "young_population": "3855",
+        "working_age_population": "17762",
+        "elderly_population": "6154"
+    },
+    {
+        "id": "141",
+        "area_id": "15",
+        "year": "2013",
+        "total_population": "16006",
+        "young_population": "1605",
+        "working_age_population": "9362",
+        "elderly_population": "5039"
+    },
+    {
+        "id": "142",
+        "area_id": "15",
+        "year": "2014",
+        "total_population": "15820",
+        "young_population": "1596",
+        "working_age_population": "9006",
+        "elderly_population": "5218"
+    },
+    {
+        "id": "143",
+        "area_id": "15",
+        "year": "2015",
+        "total_population": "15655",
+        "young_population": "1577",
+        "working_age_population": "8751",
+        "elderly_population": "5327"
+    },
+    {
+        "id": "144",
+        "area_id": "15",
+        "year": "2016",
+        "total_population": "15618",
+        "young_population": "1618",
+        "working_age_population": "8534",
+        "elderly_population": "5466"
+    },
+    {
+        "id": "145",
+        "area_id": "15",
+        "year": "2017",
+        "total_population": "15479",
+        "young_population": "1607",
+        "working_age_population": "8361",
+        "elderly_population": "5511"
+    },
+    {
+        "id": "146",
+        "area_id": "15",
+        "year": "2018",
+        "total_population": "15523",
+        "young_population": "1659",
+        "working_age_population": "8292",
+        "elderly_population": "5572"
+    },
+    {
+        "id": "147",
+        "area_id": "15",
+        "year": "2019",
+        "total_population": "15688",
+        "young_population": "1760",
+        "working_age_population": "8331",
+        "elderly_population": "5597"
+    },
+    {
+        "id": "148",
+        "area_id": "15",
+        "year": "2020",
+        "total_population": "15717",
+        "young_population": "1819",
+        "working_age_population": "8268",
+        "elderly_population": "5630"
+    },
+    {
+        "id": "149",
+        "area_id": "15",
+        "year": "2021",
+        "total_population": "15651",
+        "young_population": "1797",
+        "working_age_population": "8253",
+        "elderly_population": "5601"
+    },
+    {
+        "id": "150",
+        "area_id": "15",
+        "year": "2022",
+        "total_population": "15515",
+        "young_population": "1748",
+        "working_age_population": "8162",
+        "elderly_population": "5605"
+    },
+    {
+        "id": "151",
+        "area_id": "16",
+        "year": "2013",
+        "total_population": "10865",
+        "young_population": "1060",
+        "working_age_population": "6273",
+        "elderly_population": "3532"
+    },
+    {
+        "id": "152",
+        "area_id": "16",
+        "year": "2014",
+        "total_population": "11440",
+        "young_population": "1184",
+        "working_age_population": "6616",
+        "elderly_population": "3640"
+    },
+    {
+        "id": "153",
+        "area_id": "16",
+        "year": "2015",
+        "total_population": "12064",
+        "young_population": "1336",
+        "working_age_population": "6926",
+        "elderly_population": "3802"
+    },
+    {
+        "id": "154",
+        "area_id": "16",
+        "year": "2016",
+        "total_population": "12416",
+        "young_population": "1439",
+        "working_age_population": "7068",
+        "elderly_population": "3909"
+    },
+    {
+        "id": "155",
+        "area_id": "16",
+        "year": "2017",
+        "total_population": "12445",
+        "young_population": "1444",
+        "working_age_population": "7024",
+        "elderly_population": "3977"
+    },
+    {
+        "id": "156",
+        "area_id": "16",
+        "year": "2018",
+        "total_population": "12355",
+        "young_population": "1477",
+        "working_age_population": "6845",
+        "elderly_population": "4033"
+    },
+    {
+        "id": "157",
+        "area_id": "16",
+        "year": "2019",
+        "total_population": "12166",
+        "young_population": "1462",
+        "working_age_population": "6679",
+        "elderly_population": "4025"
+    },
+    {
+        "id": "158",
+        "area_id": "16",
+        "year": "2020",
+        "total_population": "12099",
+        "young_population": "1435",
+        "working_age_population": "6621",
+        "elderly_population": "4043"
+    },
+    {
+        "id": "159",
+        "area_id": "16",
+        "year": "2021",
+        "total_population": "12300",
+        "young_population": "1459",
+        "working_age_population": "6751",
+        "elderly_population": "4090"
+    },
+    {
+        "id": "160",
+        "area_id": "16",
+        "year": "2022",
+        "total_population": "12546",
+        "young_population": "1485",
+        "working_age_population": "6817",
+        "elderly_population": "4244"
+    },
+    {
+        "id": "161",
+        "area_id": "17",
+        "year": "2013",
+        "total_population": "28433",
+        "young_population": "3647",
+        "working_age_population": "17195",
+        "elderly_population": "7591"
+    },
+    {
+        "id": "162",
+        "area_id": "17",
+        "year": "2014",
+        "total_population": "28221",
+        "young_population": "3552",
+        "working_age_population": "16731",
+        "elderly_population": "7938"
+    },
+    {
+        "id": "163",
+        "area_id": "17",
+        "year": "2015",
+        "total_population": "28205",
+        "young_population": "3495",
+        "working_age_population": "16469",
+        "elderly_population": "8241"
+    },
+    {
+        "id": "164",
+        "area_id": "17",
+        "year": "2016",
+        "total_population": "28211",
+        "young_population": "3431",
+        "working_age_population": "16377",
+        "elderly_population": "8403"
+    },
+    {
+        "id": "165",
+        "area_id": "17",
+        "year": "2017",
+        "total_population": "28154",
+        "young_population": "3332",
+        "working_age_population": "16296",
+        "elderly_population": "8526"
+    },
+    {
+        "id": "166",
+        "area_id": "17",
+        "year": "2018",
+        "total_population": "28103",
+        "young_population": "3249",
+        "working_age_population": "16185",
+        "elderly_population": "8669"
+    },
+    {
+        "id": "167",
+        "area_id": "17",
+        "year": "2019",
+        "total_population": "27986",
+        "young_population": "3143",
+        "working_age_population": "16149",
+        "elderly_population": "8694"
+    },
+    {
+        "id": "168",
+        "area_id": "17",
+        "year": "2020",
+        "total_population": "28014",
+        "young_population": "3104",
+        "working_age_population": "16176",
+        "elderly_population": "8734"
+    },
+    {
+        "id": "169",
+        "area_id": "17",
+        "year": "2021",
+        "total_population": "27924",
+        "young_population": "3034",
+        "working_age_population": "16176",
+        "elderly_population": "8714"
+    },
+    {
+        "id": "170",
+        "area_id": "17",
+        "year": "2022",
+        "total_population": "27767",
+        "young_population": "2994",
+        "working_age_population": "16114",
+        "elderly_population": "8659"
+    },
+    {
+        "id": "171",
+        "area_id": "18",
+        "year": "2013",
+        "total_population": "15724",
+        "young_population": "2643",
+        "working_age_population": "9598",
+        "elderly_population": "3483"
+    },
+    {
+        "id": "172",
+        "area_id": "18",
+        "year": "2014",
+        "total_population": "15591",
+        "young_population": "2610",
+        "working_age_population": "9339",
+        "elderly_population": "3642"
+    },
+    {
+        "id": "173",
+        "area_id": "18",
+        "year": "2015",
+        "total_population": "15418",
+        "young_population": "2536",
+        "working_age_population": "9104",
+        "elderly_population": "3778"
+    },
+    {
+        "id": "174",
+        "area_id": "18",
+        "year": "2016",
+        "total_population": "15431",
+        "young_population": "2553",
+        "working_age_population": "8995",
+        "elderly_population": "3883"
+    },
+    {
+        "id": "175",
+        "area_id": "18",
+        "year": "2017",
+        "total_population": "15435",
+        "young_population": "2507",
+        "working_age_population": "8939",
+        "elderly_population": "3989"
+    },
+    {
+        "id": "176",
+        "area_id": "18",
+        "year": "2018",
+        "total_population": "15586",
+        "young_population": "2492",
+        "working_age_population": "8990",
+        "elderly_population": "4104"
+    },
+    {
+        "id": "177",
+        "area_id": "18",
+        "year": "2019",
+        "total_population": "15864",
+        "young_population": "2485",
+        "working_age_population": "9176",
+        "elderly_population": "4203"
+    },
+    {
+        "id": "178",
+        "area_id": "18",
+        "year": "2020",
+        "total_population": "15928",
+        "young_population": "2412",
+        "working_age_population": "9272",
+        "elderly_population": "4244"
+    },
+    {
+        "id": "179",
+        "area_id": "18",
+        "year": "2021",
+        "total_population": "16128",
+        "young_population": "2417",
+        "working_age_population": "9431",
+        "elderly_population": "4280"
+    },
+    {
+        "id": "180",
+        "area_id": "18",
+        "year": "2022",
+        "total_population": "16373",
+        "young_population": "2422",
+        "working_age_population": "9662",
+        "elderly_population": "4289"
+    },
+    {
+        "id": "181",
+        "area_id": "19",
+        "year": "2013",
+        "total_population": "15946",
+        "young_population": "2488",
+        "working_age_population": "9830",
+        "elderly_population": "3628"
+    },
+    {
+        "id": "182",
+        "area_id": "19",
+        "year": "2014",
+        "total_population": "16028",
+        "young_population": "2523",
+        "working_age_population": "9730",
+        "elderly_population": "3775"
+    },
+    {
+        "id": "183",
+        "area_id": "19",
+        "year": "2015",
+        "total_population": "16322",
+        "young_population": "2597",
+        "working_age_population": "9810",
+        "elderly_population": "3915"
+    },
+    {
+        "id": "184",
+        "area_id": "19",
+        "year": "2016",
+        "total_population": "16582",
+        "young_population": "2668",
+        "working_age_population": "9852",
+        "elderly_population": "4062"
+    },
+    {
+        "id": "185",
+        "area_id": "19",
+        "year": "2017",
+        "total_population": "16682",
+        "young_population": "2683",
+        "working_age_population": "9816",
+        "elderly_population": "4183"
+    },
+    {
+        "id": "186",
+        "area_id": "19",
+        "year": "2018",
+        "total_population": "16832",
+        "young_population": "2690",
+        "working_age_population": "9893",
+        "elderly_population": "4249"
+    },
+    {
+        "id": "187",
+        "area_id": "19",
+        "year": "2019",
+        "total_population": "16858",
+        "young_population": "2680",
+        "working_age_population": "9898",
+        "elderly_population": "4280"
+    },
+    {
+        "id": "188",
+        "area_id": "19",
+        "year": "2020",
+        "total_population": "17068",
+        "young_population": "2699",
+        "working_age_population": "10037",
+        "elderly_population": "4332"
+    },
+    {
+        "id": "189",
+        "area_id": "19",
+        "year": "2021",
+        "total_population": "17146",
+        "young_population": "2692",
+        "working_age_population": "10082",
+        "elderly_population": "4372"
+    },
+    {
+        "id": "190",
+        "area_id": "19",
+        "year": "2022",
+        "total_population": "17163",
+        "young_population": "2605",
+        "working_age_population": "10168",
+        "elderly_population": "4390"
+    },
+    {
+        "id": "191",
+        "area_id": "20",
+        "year": "2013",
+        "total_population": "25672",
+        "young_population": "2958",
+        "working_age_population": "15440",
+        "elderly_population": "7274"
+    },
+    {
+        "id": "192",
+        "area_id": "20",
+        "year": "2014",
+        "total_population": "25512",
+        "young_population": "2933",
+        "working_age_population": "14998",
+        "elderly_population": "7581"
+    },
+    {
+        "id": "193",
+        "area_id": "20",
+        "year": "2015",
+        "total_population": "25267",
+        "young_population": "2789",
+        "working_age_population": "14563",
+        "elderly_population": "7915"
+    },
+    {
+        "id": "194",
+        "area_id": "20",
+        "year": "2016",
+        "total_population": "25018",
+        "young_population": "2706",
+        "working_age_population": "14144",
+        "elderly_population": "8168"
+    },
+    {
+        "id": "195",
+        "area_id": "20",
+        "year": "2017",
+        "total_population": "24643",
+        "young_population": "2584",
+        "working_age_population": "13721",
+        "elderly_population": "8338"
+    },
+    {
+        "id": "196",
+        "area_id": "20",
+        "year": "2018",
+        "total_population": "24473",
+        "young_population": "2472",
+        "working_age_population": "13566",
+        "elderly_population": "8435"
+    },
+    {
+        "id": "197",
+        "area_id": "20",
+        "year": "2019",
+        "total_population": "24273",
+        "young_population": "2387",
+        "working_age_population": "13377",
+        "elderly_population": "8509"
+    },
+    {
+        "id": "198",
+        "area_id": "20",
+        "year": "2020",
+        "total_population": "24049",
+        "young_population": "2339",
+        "working_age_population": "13228",
+        "elderly_population": "8482"
+    },
+    {
+        "id": "199",
+        "area_id": "20",
+        "year": "2021",
+        "total_population": "23824",
+        "young_population": "2249",
+        "working_age_population": "13069",
+        "elderly_population": "8506"
+    },
+    {
+        "id": "200",
+        "area_id": "20",
+        "year": "2022",
+        "total_population": "23710",
+        "young_population": "2200",
+        "working_age_population": "12997",
+        "elderly_population": "8513"
+    },
+    {
+        "id": "201",
+        "area_id": "21",
+        "year": "2013",
+        "total_population": "13717",
+        "young_population": "1312",
+        "working_age_population": "7733",
+        "elderly_population": "4672"
+    },
+    {
+        "id": "202",
+        "area_id": "21",
+        "year": "2014",
+        "total_population": "13485",
+        "young_population": "1228",
+        "working_age_population": "7462",
+        "elderly_population": "4795"
+    },
+    {
+        "id": "203",
+        "area_id": "21",
+        "year": "2015",
+        "total_population": "13327",
+        "young_population": "1158",
+        "working_age_population": "7253",
+        "elderly_population": "4916"
+    },
+    {
+        "id": "204",
+        "area_id": "21",
+        "year": "2016",
+        "total_population": "13092",
+        "young_population": "1083",
+        "working_age_population": "7023",
+        "elderly_population": "4986"
+    },
+    {
+        "id": "205",
+        "area_id": "21",
+        "year": "2017",
+        "total_population": "13002",
+        "young_population": "1043",
+        "working_age_population": "6955",
+        "elderly_population": "5004"
+    },
+    {
+        "id": "206",
+        "area_id": "21",
+        "year": "2018",
+        "total_population": "12923",
+        "young_population": "1039",
+        "working_age_population": "6877",
+        "elderly_population": "5007"
+    },
+    {
+        "id": "207",
+        "area_id": "21",
+        "year": "2019",
+        "total_population": "12886",
+        "young_population": "1040",
+        "working_age_population": "6829",
+        "elderly_population": "5017"
+    },
+    {
+        "id": "208",
+        "area_id": "21",
+        "year": "2020",
+        "total_population": "12847",
+        "young_population": "1052",
+        "working_age_population": "6776",
+        "elderly_population": "5019"
+    },
+    {
+        "id": "209",
+        "area_id": "21",
+        "year": "2021",
+        "total_population": "12703",
+        "young_population": "1031",
+        "working_age_population": "6712",
+        "elderly_population": "4960"
+    },
+    {
+        "id": "210",
+        "area_id": "21",
+        "year": "2022",
+        "total_population": "12687",
+        "young_population": "1063",
+        "working_age_population": "6691",
+        "elderly_population": "4933"
+    },
+    {
+        "id": "211",
+        "area_id": "22",
+        "year": "2013",
+        "total_population": "14605",
+        "young_population": "1586",
+        "working_age_population": "8042",
+        "elderly_population": "4977"
+    },
+    {
+        "id": "212",
+        "area_id": "22",
+        "year": "2014",
+        "total_population": "14408",
+        "young_population": "1526",
+        "working_age_population": "7743",
+        "elderly_population": "5139"
+    },
+    {
+        "id": "213",
+        "area_id": "22",
+        "year": "2015",
+        "total_population": "14264",
+        "young_population": "1505",
+        "working_age_population": "7451",
+        "elderly_population": "5308"
+    },
+    {
+        "id": "214",
+        "area_id": "22",
+        "year": "2016",
+        "total_population": "14110",
+        "young_population": "1453",
+        "working_age_population": "7297",
+        "elderly_population": "5360"
+    },
+    {
+        "id": "215",
+        "area_id": "22",
+        "year": "2017",
+        "total_population": "14054",
+        "young_population": "1440",
+        "working_age_population": "7219",
+        "elderly_population": "5395"
+    },
+    {
+        "id": "216",
+        "area_id": "22",
+        "year": "2018",
+        "total_population": "13994",
+        "young_population": "1455",
+        "working_age_population": "7119",
+        "elderly_population": "5420"
+    },
+    {
+        "id": "217",
+        "area_id": "22",
+        "year": "2019",
+        "total_population": "13895",
+        "young_population": "1451",
+        "working_age_population": "7003",
+        "elderly_population": "5441"
+    },
+    {
+        "id": "218",
+        "area_id": "22",
+        "year": "2020",
+        "total_population": "13879",
+        "young_population": "1461",
+        "working_age_population": "7000",
+        "elderly_population": "5418"
+    },
+    {
+        "id": "219",
+        "area_id": "22",
+        "year": "2021",
+        "total_population": "13852",
+        "young_population": "1480",
+        "working_age_population": "6987",
+        "elderly_population": "5385"
+    },
+    {
+        "id": "220",
+        "area_id": "22",
+        "year": "2022",
+        "total_population": "13771",
+        "young_population": "1497",
+        "working_age_population": "6946",
+        "elderly_population": "5328"
+    },
+    {
+        "id": "221",
+        "area_id": "23",
+        "year": "2013",
+        "total_population": "12215",
+        "young_population": "1420",
+        "working_age_population": "7200",
+        "elderly_population": "3595"
+    },
+    {
+        "id": "222",
+        "area_id": "23",
+        "year": "2014",
+        "total_population": "11863",
+        "young_population": "1308",
+        "working_age_population": "6806",
+        "elderly_population": "3749"
+    },
+    {
+        "id": "223",
+        "area_id": "23",
+        "year": "2015",
+        "total_population": "11745",
+        "young_population": "1282",
+        "working_age_population": "6580",
+        "elderly_population": "3883"
+    },
+    {
+        "id": "224",
+        "area_id": "23",
+        "year": "2016",
+        "total_population": "11783",
+        "young_population": "1291",
+        "working_age_population": "6468",
+        "elderly_population": "4024"
+    },
+    {
+        "id": "225",
+        "area_id": "23",
+        "year": "2017",
+        "total_population": "12000",
+        "young_population": "1337",
+        "working_age_population": "6521",
+        "elderly_population": "4142"
+    },
+    {
+        "id": "226",
+        "area_id": "23",
+        "year": "2018",
+        "total_population": "12003",
+        "young_population": "1288",
+        "working_age_population": "6492",
+        "elderly_population": "4223"
+    },
+    {
+        "id": "227",
+        "area_id": "23",
+        "year": "2019",
+        "total_population": "12263",
+        "young_population": "1354",
+        "working_age_population": "6622",
+        "elderly_population": "4287"
+    },
+    {
+        "id": "228",
+        "area_id": "23",
+        "year": "2020",
+        "total_population": "12474",
+        "young_population": "1407",
+        "working_age_population": "6782",
+        "elderly_population": "4285"
+    },
+    {
+        "id": "229",
+        "area_id": "23",
+        "year": "2021",
+        "total_population": "12543",
+        "young_population": "1419",
+        "working_age_population": "6843",
+        "elderly_population": "4281"
+    },
+    {
+        "id": "230",
+        "area_id": "23",
+        "year": "2022",
+        "total_population": "12529",
+        "young_population": "1423",
+        "working_age_population": "6869",
+        "elderly_population": "4237"
+    },
+    {
+        "id": "231",
+        "area_id": "24",
+        "year": "2013",
+        "total_population": "9474",
+        "young_population": "2234",
+        "working_age_population": "5749",
+        "elderly_population": "1491"
+    },
+    {
+        "id": "232",
+        "area_id": "24",
+        "year": "2014",
+        "total_population": "10537",
+        "young_population": "2515",
+        "working_age_population": "6428",
+        "elderly_population": "1594"
+    },
+    {
+        "id": "233",
+        "area_id": "24",
+        "year": "2015",
+        "total_population": "10858",
+        "young_population": "2628",
+        "working_age_population": "6550",
+        "elderly_population": "1680"
+    },
+    {
+        "id": "234",
+        "area_id": "24",
+        "year": "2016",
+        "total_population": "11413",
+        "young_population": "2782",
+        "working_age_population": "6894",
+        "elderly_population": "1737"
+    },
+    {
+        "id": "235",
+        "area_id": "24",
+        "year": "2017",
+        "total_population": "11850",
+        "young_population": "2903",
+        "working_age_population": "7159",
+        "elderly_population": "1788"
+    },
+    {
+        "id": "236",
+        "area_id": "24",
+        "year": "2018",
+        "total_population": "12083",
+        "young_population": "2953",
+        "working_age_population": "7305",
+        "elderly_population": "1825"
+    },
+    {
+        "id": "237",
+        "area_id": "24",
+        "year": "2019",
+        "total_population": "12299",
+        "young_population": "2934",
+        "working_age_population": "7495",
+        "elderly_population": "1870"
+    },
+    {
+        "id": "238",
+        "area_id": "24",
+        "year": "2020",
+        "total_population": "12592",
+        "young_population": "2896",
+        "working_age_population": "7793",
+        "elderly_population": "1903"
+    },
+    {
+        "id": "239",
+        "area_id": "24",
+        "year": "2021",
+        "total_population": "12819",
+        "young_population": "2890",
+        "working_age_population": "8006",
+        "elderly_population": "1923"
+    },
+    {
+        "id": "240",
+        "area_id": "24",
+        "year": "2022",
+        "total_population": "12949",
+        "young_population": "2824",
+        "working_age_population": "8201",
+        "elderly_population": "1924"
+    }
+]

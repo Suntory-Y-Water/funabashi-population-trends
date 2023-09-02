@@ -1,0 +1,8 @@
+<h2 class="area-title">地域一覧</h2>
+<div class="button-container">
+  <div *ngFor="let city of cities; let i = index">
+    <button *ngIf="i % 3 === 0">{{ cities[i].areaName }}</button>
+    <button *ngIf="cities[i + 1] && i % 3 === 0">{{ cities[i + 1].areaName }}</button>
+    <button *ngIf="cities[i + 2] && i % 3 === 0">{{ cities[i + 2].areaName }}</button>
+  </div>
+</div>
