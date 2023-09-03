@@ -8,7 +8,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { HeaderComponent } from './header/header.component';
 import { CitiesListComponent } from './cities-list/cities-list.component';
 import { GrafComponent } from './graf/graf.component';
-
+import { NgChartsModule } from 'ng2-charts';
 @NgModule({
   
   declarations: [
@@ -23,6 +23,7 @@ import { GrafComponent } from './graf/graf.component';
     ReactiveFormsModule,
     AppRoutingModule,
     FormsModule,
+    NgChartsModule,
     RouterModule.forRoot([
     ]),
   ],
