@@ -37,12 +37,16 @@
   }
   
   .button:hover, button:hover {
-    font-weight: normal;
+    cursor: pointer;
     background:#C5D7FB;
   }
   
   .button:active, button:active {
-    /* TODO アクティブな状態を維持すること */
-    cursor: auto;
-    background:#9DB7F9;
+    cursor: pointer;
+    background-color:#9DB7F9;
+  }
+
+  .checked {
+    cursor: pointer;
+    background-color:#C5D7FB;
   }
