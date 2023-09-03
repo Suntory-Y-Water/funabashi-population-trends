@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { cities } from '../population/cities';
+import { SelectedDataService } from '../shared/shared.service';
 
 @Component({
   selector: 'app-cities-list',
@@ -10,6 +11,7 @@ export class CitiesListComponent {
   cities = cities;
   selectedCityAreaNames: string[] = [];
 
+  constructor(private selectedDataService: SelectedDataService) {}
   ngOnInit() {
   }
 
@@ -22,6 +24,6 @@ export class CitiesListComponent {
       this.selectedCityAreaNames.push(areaName);
     }
     console.log(`Current selected cities: ${this.selectedCityAreaNames}`);
+    this.selectedDataService.setSelectedCityAreaNames(this.selectedCityAreaNames);
   }
-  
 }
