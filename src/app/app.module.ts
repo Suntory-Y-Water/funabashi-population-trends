@@ -9,6 +9,7 @@ import { HeaderComponent } from './header/header.component';
 import { CitiesListComponent } from './cities-list/cities-list.component';
 import { GrafComponent } from './graf/graf.component';
 import { NgChartsModule } from 'ng2-charts';
+
 @NgModule({
   
   declarations: [

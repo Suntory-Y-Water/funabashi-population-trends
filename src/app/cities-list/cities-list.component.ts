@@ -23,7 +23,6 @@ export class CitiesListComponent {
       // 新しく選択された場合、配列に追加する
       this.selectedCityAreaNames.push(areaName);
     }
-    console.log(`Current selected cities: ${this.selectedCityAreaNames}`);
     this.selectedDataService.setSelectedCityAreaNames(this.selectedCityAreaNames);
   }
 }

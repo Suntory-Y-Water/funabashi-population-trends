@@ -1,4 +1,4 @@
-export interface Cities {
+export interface City {
   id: number;
   areaName: string;
 }
