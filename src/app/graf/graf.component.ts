@@ -17,6 +17,7 @@ import { HttpClient } from '@angular/common/http';
 export class GrafComponent implements OnInit {
   selectedCategory: PopulationCategory | null = null;
   populationCategories = POPULATION_CATEGORIES;
+  selectedCityCount = 0;
   private populationDataset: PopulationData[] = [];
   private populationDataUrl = '../../assets/population.json';
 
@@ -53,7 +54,7 @@ export class GrafComponent implements OnInit {
   
   ngOnInit() {
     this.loadPopulationData();
-
+    this.selectedCategory = this.populationCategories[0];
     this.selectedDataService.selectedCityAreaNames$.subscribe(cityAreaNames => {
       // 追加: 現在のdatasetsから削除すべき都市のデータセットを特定
       const datasetsCityNames = this.lineChartData.datasets.map(dataset => dataset.label).filter((label): label is string => !!label);
@@ -61,17 +62,15 @@ export class GrafComponent implements OnInit {
       // 削除すべき都市のデータセットを削除
       citiesToRemove.forEach(cityName => this.removeCityData(cityName));
 
+      // 選択している町名の数を取得
+      this.selectedCityCount = cityAreaNames.length;
+
       cityAreaNames.forEach(cityAreaName => {
         const matchingCity = cities.find(city => city.areaName === cityAreaName);
         if (matchingCity) {
           this.addOrUpdateCityData(matchingCity.id, cityAreaName);
         }
       });
-      console.log(`地域が更新されました: ${cityAreaNames.join(', ')}`);
-    });
-    
-    this.selectedDataService.selectedCategory$.subscribe(category => {
-      console.log(`カテゴリが更新されました${category}`);
     });
   }
   
@@ -134,7 +133,7 @@ export class GrafComponent implements OnInit {
   
   public lineChartData: ChartConfiguration['data'] = {
     datasets: [],  // 初期値を空の配列に変更
-    labels: ['2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022'],
+    labels: ['2013年', '2014年', '2015年', '2016年', '2017年', '2018年', '2019年', '2020年', '2021年', '2022年'],
   };
 
   public lineChartOptions: ChartConfiguration['options'] = {
@@ -146,7 +145,17 @@ export class GrafComponent implements OnInit {
     scales: {
       y: {
         position: 'left',
+        ticks: {
+          callback: function(value) {
+            return value + '人';
+          },
+        },
       },
     },
+    plugins: {
+      legend: {
+        position: 'right',
+      }
+    }
   };
 }
