@@ -5,8 +5,7 @@
     font-size: 16px;
     color: #333333;
   }
-  
-  /* Text */
+
   h1 {
     font-size: 36px;
   }
@@ -49,4 +48,22 @@
   .checked {
     cursor: pointer;
     background-color:#C5D7FB;
+  }
+  
+  .canvas-container {
+    width:  calc(100% - 40px);
+    height: 600px;
+    margin: 1rem;
+  }
+
+  .pulldown-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1000px;
+  }
+
+  .selector {
+    margin-left: auto;
+    height: 2rem;
   }
