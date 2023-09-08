@@ -1,6 +1,6 @@
 import { Component, OnInit, ViewChild } from '@angular/core';
-import { POPULATION_CATEGORIES } from '../population/populationCategory';
-import { PopulationCategory, PopulationData } from './graf.types'
+import { POPULATION_CATEGORIES } from '../types/populationCategory';
+import { PopulationCategory, PopulationData } from '../types/graf'
 import { SelectedDataService } from '../shared/shared.service';
 import { ChartConfiguration, ChartType } from 'chart.js';
 import { BaseChartDirective } from 'ng2-charts';
