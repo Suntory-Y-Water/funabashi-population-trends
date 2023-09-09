@@ -1,20 +1,8 @@
-<h2 class="area-title">地域一覧</h2>
+<h2 class="title">地域一覧</h2>
 <div class="button-container">
-  <div *ngFor="let city of cities; let i = index">
-    <button *ngIf="i % 3 === 0" 
-            [class.checked]="selectedCityAreaNames.includes(cities[i].areaName)" 
-            (click)="onButtonClick(cities[i].areaName)">
-      {{ cities[i].areaName }}
-    </button>
-    <button *ngIf="cities[i + 1] && i % 3 === 0"
-            [class.checked]="selectedCityAreaNames.includes(cities[i + 1].areaName)" 
-            (click)="onButtonClick(cities[i + 1].areaName)">
-      {{ cities[i + 1].areaName }}
-    </button>
-    <button *ngIf="cities[i + 2] && i % 3 === 0" 
-            [class.checked]="selectedCityAreaNames.includes(cities[i + 2].areaName)" 
-            (click)="onButtonClick(cities[i + 2].areaName)">
-      {{ cities[i + 2].areaName }}
-    </button>
-  </div>
+  <button *ngFor="let city of cities; let i = index"
+          [class.checked]="selectedCityAreaNames.includes(city.areaName)" 
+          (click)="onButtonClick(city.areaName)">
+    {{ city.areaName }}
+  </button>
 </div>

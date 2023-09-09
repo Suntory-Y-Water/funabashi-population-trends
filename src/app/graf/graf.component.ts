@@ -137,6 +137,8 @@ export class GrafComponent implements OnInit {
   };
 
   public lineChartOptions: ChartConfiguration['options'] = {
+    maintainAspectRatio: false,
+    responsive: true,
     elements: {
       line: {
         tension: 0.5,
@@ -154,7 +156,7 @@ export class GrafComponent implements OnInit {
     },
     plugins: {
       legend: {
-        position: 'right',
+        position: 'top',
       }
     }
   };

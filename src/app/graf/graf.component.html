@@ -1,5 +1,6 @@
+<h2 class="title">地域別 年齢グラフ</h2>
 <div class="pulldown-container">
-  <h2>地域別 年齢グラフ</h2>
+  <label class="label">区分選択</label>
   <select class="selector" [(ngModel)]="selectedCategory" (change)="onCategoryChange()">
     <option *ngFor="let category of populationCategories" [ngValue]="category">{{ category.label }}</option>
   </select>
@@ -16,5 +17,5 @@
 </div>
 
 <div class="canvas-container" *ngIf="selectedCityCount === 0">
-  <p>町名を選択してね</p>
+  <p>地域を選択してね</p>
 </div>
