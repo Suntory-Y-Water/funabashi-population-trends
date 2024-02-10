@@ -1,12 +1,20 @@
-<h2 class="title">地域別 年齢グラフ</h2>
-<div class="pulldown-container">
-  <label class="label">区分選択</label>
-  <select class="selector" [(ngModel)]="selectedCategory" (change)="onCategoryChange()">
-    <option *ngFor="let category of populationCategories" [ngValue]="category">{{ category.label }}</option>
+<h2 class="text-2xl py-4 font-bold">
+  <span class="border-b-2 border-current">地域別 年齢グラフ</span>
+</h2>
+<div class="flex">
+  <label class="w-1/5 py-2 mr-2 font-semibold">区分選択</label>
+  <select
+    class="inline-flex w-4/5 md:w-full mr-auto justify-center gap-x-1.5 rounded-md bg-slate-100 py-2 text-sm hover:bg-slate-200"
+    [(ngModel)]="selectedCategory"
+    (change)="onCategoryChange()"
+  >
+    <option *ngFor="let category of populationCategories" [ngValue]="category">
+      {{ category.label }}
+    </option>
   </select>
 </div>
 
-<div class="canvas-container" *ngIf="selectedCityCount > 0">
+<div class="w-full min-h-[600px] py-4" *ngIf="selectedCityCount > 0">
   <canvas
     baseChart
     class="chart"
@@ -16,6 +24,6 @@
   ></canvas>
 </div>
 
-<div class="canvas-container" *ngIf="selectedCityCount === 0">
+<div class="py-4" *ngIf="selectedCityCount === 0">
   <p>地域を選択してね</p>
 </div>

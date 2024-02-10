@@ -1,6 +1,5 @@
 /**
- * @description
- * @export
+ * @description グラフの種類を切り替えるための型
  * @interface PopulationCategory
  */
 export interface PopulationCategory {
@@ -9,8 +8,7 @@ export interface PopulationCategory {
 }
 
 /**
- * @description
- * @export
+ * @description 各地域の人口動態データ(地域名、年、総人口、年少人口、生産年齢人口、老年人口)
  * @interface PopulationData
  */
 export interface PopulationData {
